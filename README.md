@@ -1,2 +1,2 @@
 # Computer_Graphics
-WebGL
+3D WebGL Renderer
